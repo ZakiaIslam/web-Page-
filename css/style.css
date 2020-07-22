@@ -1,0 +1,34 @@
+.carousel-caption {
+
+    bottom: 298px;
+
+}
+
+.getting{
+    background: url(../image/1.jpg);
+    height: 350px;
+    background-size: cover;
+    position: relative;
+}
+.getting-overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(200,53,69,.5);
+}
+
+
+.section-banner{
+    background: url(../image/bn.jpg);
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+}
+
+.what-do img{
+    margin-top: -80px;
+        
+        
+        
+        
+}

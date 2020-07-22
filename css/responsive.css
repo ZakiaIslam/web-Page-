@@ -1,0 +1,20 @@
+@media screen and (max-width:575px){
+    .getting-overlay input{
+        margin-bottom: 5px
+    }
+}
+@media screen and (max-width:767px){
+    .about-box .about-content{
+        margin-bottom: 15px
+    }
+    .what-do .do-img{
+        margin-top: 25px;
+    }
+
+}
+
+@media screen and (max-width:767px){
+    .sevice img {
+        text-align: center;
+    }
+}
